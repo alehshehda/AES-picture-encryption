@@ -1,6 +1,6 @@
 # AES picture encryption
  
-used 'pip install' lines:
+used 'pip install' lines in venv:
 
 pip install pycryptodome
 
